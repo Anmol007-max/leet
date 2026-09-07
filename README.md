@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anmol007-max/leet/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anmol007-max/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anmol007-max/leet/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Anmol007-max/leet/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anmol007-max/leet/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/Anmol007-max/leet/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anmol007-max/leet/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Anmol007-max/leet/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
