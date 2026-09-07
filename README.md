@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anmol007-max/leet/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/Anmol007-max/leet/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Anmol007-max/leet/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Anmol007-max/leet/tree/master/1672-richest-customer-wealth) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Anmol007-max/leet/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
